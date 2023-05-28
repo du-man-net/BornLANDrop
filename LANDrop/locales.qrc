@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>locales/LANDrop.zh_CN.qm</file>
+        <file>locales/LANDrop.fr_FR.qm</file>
+    </qresource>
+</RCC>
